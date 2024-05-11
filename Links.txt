@@ -1,0 +1,37 @@
+(1)     https://rapidapi.com/hub
+
+(2)     https://free-apis.github.io/#/
+
+(3)     https://github.com/public-api-lists/public-api-lists?tab=readme-ov-file#index
+
+(4)     https://apipheny.io/free-api/
+
+(5)     https://apilist.fun/
+
+(6)     https://any-api.com/
+
+(7)     https://developers.google.com/apis-explorer
+
+(8)     https://openweathermap.org/api
+
+(9)     https://www.freecodecamp.org/news/public-apis-for-developers/
+
+(10)    https://www.geeksforgeeks.org/free-apis-list/
+
+(11)    https://www.alphavantage.co/
+
+(12)    https://api.nasa.gov/
+
+(13)    https://www.pexels.com/api/documentation/
+
+(14)    https://dev.to/ruppysuppy/7-free-public-apis-you-will-love-as-a-developer-166p
+
+(15)    https://deadsimplechat.com/blog/7-free-apis-for-developers/
+
+(16)    https://blog.hubspot.com/website/free-open-apis
+
+(17)    https://blog.hubspot.com/website/free-api-maps
+
+(18)    https://www.jsonapi.co/public-api (900 API)
+
+(19)    https://nordicapis.com/9-free-public-apis-that-offer-up-some-cool-open-data/
